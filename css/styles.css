@@ -1467,6 +1467,12 @@ abbr {
     color         : var(--color-text-dark);
 }
 
+lnk {
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: orange;
+}
+
 abbr[title],
 dfn[title] {
     border-bottom  : 1px dotted;
